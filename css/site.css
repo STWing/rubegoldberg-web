@@ -1,3 +1,7 @@
+.hidden-space {
+  visibility: hidden;
+}
+
 /* Banner */
 
 #banner-wrapper {
