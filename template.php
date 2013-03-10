@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="css/normalize.css" />
   <link rel="stylesheet" href="css/foundation.css" />
 
+  <link rel="stylesheet" href="css/banner.css" >
+
   <script src="js/vendor/custom.modernizr.js"></script>
 </head>
 
@@ -53,30 +55,6 @@
       </div>
     </div>
   </footer>
-
-  <!-- Included JS Files -->
-  <!-- Honestly, I don't know what these are for. -->
-  <script src="js/vendor/zepto.js"></script>
-  <script src="js/foundation/foundation.js"></script>
-  <script src="js/foundation/foundation.cookie.js"></script>
-  <script src="js/foundation/foundation.alerts.js"></script>
-  <script src="js/foundation/foundation.clearing.js"></script>
-  <script src="js/foundation/foundation.dropdown.js"></script>
-  <script src="js/foundation/foundation.forms.js"></script>
-  <script src="js/foundation/foundation.joyride.js"></script>
-  <script src="js/foundation/foundation.magellan.js"></script>
-  <script src="js/foundation/foundation.orbit.js"></script>
-  <script src="js/foundation/foundation.placeholder.js"></script>
-  <script src="js/foundation/foundation.reveal.js"></script>
-  <script src="js/foundation/foundation.section.js"></script>
-  <script src="js/foundation/foundation.tooltips.js"></script>
-  <script src="js/foundation/foundation.topbar.js"></script>
-  <!-- Application Javascript, safe to override -->
-
-  <script src="js/foundation/index.js"></script>
-  <script>
-    $(document).foundation().foundation('joyride', 'start');
-  </script>
 
 </body>
 

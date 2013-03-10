@@ -2,8 +2,15 @@
 
 <div class="row">
   <div class="large-12 columns">
-    <img src="http://placehold.it/1000x400&text=[img]">
-
+    <div class="vcenter" id="banner-wrapper">
+      <div class="vcenter-cell">
+        <div id="banner-title-wrapper">
+          <h1 id="site-title">Rube Goldberg</h1>
+          <p id="site-tagline">[04.06.2013 - 04.07.2013]</p>
+          <a href="register.php" class="large button">Sign up now</a>
+        </div>
+      </div>
+    </div>
     <hr>
   </div>
 </div>

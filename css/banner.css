@@ -1,0 +1,37 @@
+#banner-wrapper {
+  height: 400px;
+  width: 1000px;
+  background-image: url("../img/banner.jpg");
+}
+
+.vcenter {
+  display: table;
+  overflow: hidden;
+}
+
+.vcenter-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#banner-title-wrapper {
+  text-align: left;
+  margin: 0 auto;
+  padding-left: 30px;
+}
+
+#site-title {
+  color: white;
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 1.25em;
+  letter-spacing: 2px;
+  margin: 14px 0;
+}
+
+#site-tagline {
+  font-size: 24px;
+  line-height: 1.8em;
+  letter-spacing: 3px;
+  color: #EEE;
+}
