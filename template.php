@@ -8,7 +8,7 @@
   <title>STWing Rube Goldberg Competition</title>
 
   <link rel="stylesheet" href="css/normalize.min.css" />
-  <link rel="stylesheet" href="css/foundation.min.css" />
+  <link rel="stylesheet" href="css/foundation.css" />
 
   <link rel="stylesheet" href="css/site.min.css" />
 
