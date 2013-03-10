@@ -42,9 +42,9 @@
 
     <p>Tools and a large amount of materials will be provided. The contraptions
       will be judged based on task completion and creativity, and prizes will be
-      awared to the top three teams. There is an entry fee of $10.00 per person.
-      This helps cover the cost of materials, the t-shirt, and a provided lunch
-      on Sunday.</p>
+      awared to the top three teams. To help cover the cost of materials,
+      T-shirt, and the provided lunch on Sunday, there will be an entry fee of
+      $10.00 per person.</p>
 
   </div>
   <div class="large-4 columns">
@@ -57,9 +57,6 @@
 <p>however some teams may want to spend
 additional money on specific items. but out of pocket spending is permitted up to an amount of $25 per team.</p>
 <p></p>
-
-<h3>How:</h3>
-<p>A more complete version of the rules and regulations including project specifications can be found by going to the <a href="rules.php">rules</a> section of the website.</p>
 
 <h3>Contact</h3>
 <p>If you have any questions or comments, email <a href="mailto:beeker@stwing.upenn.edu">beeker@stwing.upenn.edu</a>.</p> -->
