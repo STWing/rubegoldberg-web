@@ -25,8 +25,8 @@
       <ul class="button-group right">
         <li><a href="index.php" class="button">Home</a></li>
         <li><a href="rules.php" class="button">Rules</a></li>
-        <li><a href="register.php" class="button">Sign up</a></li>
         <li><a href="schedule.php" class="button">Schedule</a></li>
+        <li><a href="register.php" class="button">Sign up</a></li>
       </ul>
     </div>
   </header>
