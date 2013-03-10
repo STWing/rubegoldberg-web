@@ -19,7 +19,9 @@
 <body>
   <header class="row">
     <div class="large-3 columns">
-      <h1><img src="http://placehold.it/400x100&text=Logo"></h1>
+      <a href="index.php">
+        <h1><img src="http://placehold.it/400x100&text=Logo"></h1>
+      </a>
     </div>
     <div class="large-9 columns">
       <ul class="button-group right">
