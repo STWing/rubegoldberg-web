@@ -1,25 +1,8 @@
-<!-- First Band (Image) -->
-
-<div class="row">
-  <div class="large-12 columns">
-    <div class="vcenter" id="banner-wrapper">
-      <div class="vcenter-cell">
-        <div id="banner-title-wrapper">
-          <h1 id="site-title">Rube Goldberg</h1>
-          <p id="site-tagline">[04.06.2013 - 04.07.2013]</p>
-          <a href="register.php" class="large button">Sign up now</a>
-        </div>
-      </div>
-    </div>
-    <hr>
-  </div>
-</div>
-
 <!-- Second Band (Image Left with Text) -->
 
 <div class="row">
   <div class="large-4 columns">
-    <img src="http://placehold.it/400x300&text=[img]">
+    <img src="img/thumb1.jpg">
   </div>
   <div class="large-8 columns">
     <h4>General Information</h4>
@@ -50,8 +33,8 @@
     <h4>Participation and Logistics</h4>
 
     <p>This year, the STWing Rube Goldberg Competition will take place the
-      weekend of April 6-7. See our <a href="schedule.php">schedule</a> for more
-      details.</p>
+      weekend of April 6-7 in the 1938 Lounge of Kings Court English College
+      House. See our <a href="schedule.php">schedule</a> for more details.</p>
 
     <p>The Rube Goldberg Competition is open to all students at Penn. Students
       will compete in teams of 3 or 4. In addition, individuals or partial teams

@@ -1,0 +1,20 @@
+.rules {
+  margin-left: 1.5em;
+}
+
+#schedule {
+  max-width: 970px;
+}
+
+#schedule td {
+  font-size: 1em;
+}
+
+#schedule ul {
+  list-style: none;
+  margin-bottom: 0;
+}
+
+#schedule td:first-child {
+  font-weight: bold
+}

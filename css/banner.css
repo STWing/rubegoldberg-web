@@ -1,7 +1,8 @@
 #banner-wrapper {
-  height: 400px;
-  width: 1000px;
+  height: 388px;
+  width: 970px;
   background-image: url("../img/banner.jpg");
+  background-size: 100% 100%;
 }
 
 .vcenter {
