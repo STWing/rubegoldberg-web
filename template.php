@@ -30,26 +30,18 @@
     </div>
   </header>
 
-  <!-- First Band (Image) -->
-
+  <!-- First band (large image) -->
   <div class="row">
     <div class="large-12 columns">
-      <div class="vcenter" id="banner-wrapper">
-        <div class="vcenter-cell">
-          <div id="banner-title-wrapper">
-            <h1 id="site-title">Rube Goldberg</h1>
-            <p id="site-tagline">[04.06.2013 - 04.07.2013]</p>
-            <? if ($dont_include) { ?>
-            <a href="register.php" class="large button red hidden-space">Sign up now</a>
-            <? } else { ?>
-            <a href="register.php" class="large button red">Sign up now</a>
-            <? } ?>
-          </div>
-        </div>
-      </div>
+      <? if ($large_banner) {
+           include("banner.php");
+         } else {
+           include("banner-min.php");
+         } ?>
       <hr>
     </div>
   </div>
+
 
   <div id="content">
     <? include($main); ?>
