@@ -5,23 +5,27 @@
 /* Banner */
 
 #banner-wrapper {
-  max-height: 390px;
+  height: 390px;
   max-width: 970px;
   background-image: url("../img/banner.jpg");
 }
 
 #banner-wrapper-min {
-  max-height: 260px;
+  height: 260px;
   max-width: 970px;
   background-image: url("../img/banner-min.jpg");
 }
 
 .vcenter {
+  width: 100%;
+  height: 100%;
   display: table;
   overflow: hidden;
 }
 
 .vcenter-cell {
+  width: 100%;
+  height: 100%;
   display: table-cell;
   vertical-align: middle;
 }
