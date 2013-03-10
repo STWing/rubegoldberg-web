@@ -48,7 +48,7 @@
 
   </div>
   <div class="large-4 columns">
-    <img src="http://placehold.it/400x300&text=[img]">
+    <img src="img/judges.jpg">
   </div>
 </div>
 
