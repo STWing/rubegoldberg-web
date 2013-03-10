@@ -17,12 +17,10 @@
 
 <body>
   <header class="row">
-    <div class="large-3 columns">
-      <a href="index.php">
-        <h1><img src="http://placehold.it/400x100&text=Logo"></h1>
-      </a>
+    <div class="small-4 columns">
+      <h1><a href="index.php"><img src="img/stwing-logo.png"></a></h1>
     </div>
-    <div class="large-9 columns">
+    <div class="large-8 columns">
       <ul class="button-group right">
         <li><a href="index.php" class="button">Home</a></li>
         <li><a href="rules.php" class="button">Rules</a></li>
