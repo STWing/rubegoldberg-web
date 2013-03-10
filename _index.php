@@ -42,7 +42,7 @@
 
     <p>Tools and a large amount of materials will be provided. The contraptions
       will be judged based on task completion and creativity, and prizes will be
-      awared to the top three teams. To help cover the cost of materials,
+      awarded to the top three teams. To help cover the cost of materials,
       T-shirt, and the provided lunch on Sunday, there will be an entry fee of
       $10.00 per person.</p>
 
