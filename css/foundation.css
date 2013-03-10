@@ -1355,6 +1355,12 @@ blockquote p {
       .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
         background-color: #c60f13; }
 
+.button.red {
+  background-color: #c60f13;
+  border-color: #970b0e; }
+  .button.red:hover, .button.red:focus {
+    background-color: #970b0e; }
+
 input.button,
 button.button {
   padding-top: 0.8125em;
@@ -3758,3 +3764,4 @@ table {
     max-width: 500px; }
   .f-dropdown.large {
     max-width: 800px; }
+

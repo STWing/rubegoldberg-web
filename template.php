@@ -7,11 +7,10 @@
   <meta name="viewport" content="width=device-width" />
   <title>STWing Rube Goldberg Competition</title>
 
-  <link rel="stylesheet" href="css/normalize.css" />
-  <link rel="stylesheet" href="css/foundation.css" />
+  <link rel="stylesheet" href="css/normalize.min.css" />
+  <link rel="stylesheet" href="css/foundation.min.css" />
 
-  <link rel="stylesheet" href="css/banner.css" />
-  <link rel="stylesheet" href="css/site.css" />
+  <link rel="stylesheet" href="css/site.min.css" />
 
   <script src="js/vendor/custom.modernizr.js"></script>
 </head>
@@ -28,7 +27,7 @@
         <li><a href="index.php" class="button">Home</a></li>
         <li><a href="rules.php" class="button">Rules</a></li>
         <li><a href="schedule.php" class="button">Schedule</a></li>
-        <li><a href="register.php" class="button">Sign up</a></li>
+        <li><a href="register.php" class="button red">Sign up</a></li>
       </ul>
     </div>
   </header>
@@ -42,7 +41,7 @@
           <div id="banner-title-wrapper">
             <h1 id="site-title">Rube Goldberg</h1>
             <p id="site-tagline">[04.06.2013 - 04.07.2013]</p>
-            <a href="register.php" class="large button">Sign up now</a>
+            <a href="register.php" class="large button red">Sign up now</a>
           </div>
         </div>
       </div>
