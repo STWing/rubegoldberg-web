@@ -8,7 +8,8 @@
 
 <div id="t-shirt-logos" class="large-12 columns">
 <h1>T-shirt logos</h1>
-<p>To help us personalize your T-shirts, please send us your T-shirt logo by
+<p>To help us personalize your T-shirts, please send us your T-shirt logo to
+  <a href="mailto:beeker@stwing.upenn.edu">beeker@stwing.org</a> by
   Sunday, March 31. Here are some examples of T-shirt logos from past years.</p>
 
 <ul class="large-block-grid-4">
