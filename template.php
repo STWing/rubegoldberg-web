@@ -17,7 +17,7 @@
 
 <body>
   <header class="row">
-    <div class="small-4 columns">
+    <div class="large-4 columns">
       <h1><a href="index.php"><img src="img/stwing-logo.png"></a></h1>
     </div>
     <div class="large-8 columns">
