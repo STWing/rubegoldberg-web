@@ -3,7 +3,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
 <head>
-	<meta charset="utf-8" />
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
   <title>STWing Rube Goldberg Competition</title>
 
@@ -16,6 +16,7 @@
 </head>
 
 <body>
+  <!-- Fork me on https://github.com/STWing/rubegoldberg-web -->
   <header class="row">
     <div class="large-4 columns">
       <h1><a href="index.php"><img src="img/stwing-logo.png"></a></h1>
