@@ -49,6 +49,12 @@
   </div>
   <div class="large-4 columns">
     <img src="img/judges.jpg">
+    <div class="panel" style="margin-top:1.25em;">
+      <p>RSVP to our event on
+        <a href="https://www.facebook.com/events/430374367046398/">Facebook
+        </a>!
+      </p>
+    </div>
   </div>
 </div>
 

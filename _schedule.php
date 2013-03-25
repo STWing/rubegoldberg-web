@@ -1,15 +1,4 @@
 <div class="row">
-  <div class="large-12 columns">
-    <div class="panel">
-      <p>RSVP to our event on
-        <a href="https://www.facebook.com/events/430374367046398/">Facebook
-        </a>!
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="row">
 <div class="large-12 columns">
 
 <h1>Schedule</h1>
