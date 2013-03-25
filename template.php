@@ -32,6 +32,15 @@
     </div>
   </header>
 
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="panel">
+        <p>Registration ends this Friday. Don't forget to
+          <a href="register.php">sign up</a>!</p>
+      </div>
+    </div>
+  </div>
+
   <!-- First band (large image) -->
   <div class="row">
     <div class="large-12 columns">
