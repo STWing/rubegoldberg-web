@@ -26,6 +26,7 @@
         <li><a href="index.php" class="button">Home</a></li>
         <li><a href="rules.php" class="button">Rules</a></li>
         <li><a href="schedule.php" class="button">Schedule</a></li>
+        <li><a href="about.php" class="button">About us</a></li>
         <li><a href="register.php" class="button red">Sign up</a></li>
       </ul>
     </div>
