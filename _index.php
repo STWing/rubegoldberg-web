@@ -44,7 +44,7 @@
       will be judged based on task completion and creativity, and prizes will be
       awarded to the top three teams. To help cover the cost of materials,
       T-shirt, and the provided lunch on Sunday, there will be an entry fee of
-      $10.00 per person.</p>
+      $5.00 per person.</p>
 
   </div>
   <div class="large-4 columns">
@@ -57,12 +57,3 @@
     </div>
   </div>
 </div>
-
-<!--
-<h3>What:</h3>
-<p>however some teams may want to spend
-additional money on specific items. but out of pocket spending is permitted up to an amount of $25 per team.</p>
-<p></p>
-
-<h3>Contact</h3>
-<p>If you have any questions or comments, email <a href="mailto:beeker@stwing.upenn.edu">beeker@stwing.upenn.edu</a>.</p> -->

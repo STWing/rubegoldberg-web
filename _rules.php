@@ -22,12 +22,14 @@
   <li>One team member should be designated the team captain. He/she is
       responsible for all communications between the team and the organizers.</li>
   <li>Each member must sign a liability waiver before the start of the competition.</li>
-  <li>There is a $10.00 entry fee per person.</li>
+  <li>There is a $5.00 entry fee per person.</li>
 </ol>
 
 <h4>The Design</h4>
 <ol class="rules">
   <li>To build their machines, we will provide tools and materials to all teams.</li>
+  <li>Some teams may want to spend additional money on specific items;
+    out of pocket spending is permitted up to an amount of $25 per team.</li>
   <li>Designs are constrained to a 1m x 1m base. No part of the device is
     allowed to extend beyond this limit during operation. However, there is no
     height limit.</li>
@@ -44,5 +46,5 @@
   <li>The three best designs overall will receive prizes.</li>
 </ol>
 
-</div>
-</div>
+  </div>
+  </div>
