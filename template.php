@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/normalize.min.css" />
   <link rel="stylesheet" href="css/foundation.css" />
 
-  <link rel="stylesheet" href="css/site.min.css" />
+  <link rel="stylesheet" href="css/site.css" />
 
   <script src="js/vendor/custom.modernizr.js"></script>
 </head>
@@ -35,8 +35,11 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="panel">
-        <p>Registration ends this Friday. Don't forget to
-          <a href="register.php">sign up</a>!</p>
+        <p>Registration has ended. If you would still like to sign up, please
+          <a href="register.php">sign up</a> here and
+          <a href="mailto:beeker@stwing.org">send us an email</a>.</p>
+        <p>If you have registered, please send us your T-shirt designs by
+          March 31st (or else we will pseudo-randomly generate one for you).</p>
       </div>
     </div>
   </div>
