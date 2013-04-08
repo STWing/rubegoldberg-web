@@ -35,11 +35,9 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="panel">
-        <p>Registration has ended. If you would still like to sign up, please
-          <a href="register.php">sign up</a> here and
-          <a href="mailto:beeker@stwing.org">send us an email</a>.</p>
-        <p>If you have registered, please send us your T-shirt designs by
-          March 31st (or else we will pseudo-randomly generate one for you).</p>
+        <p>The competition is over. Stay tuned for updates on next year's
+          Rube Goldberg. Until then, check back later for pictures and videos
+          from this year's event.</p>
       </div>
     </div>
   </div>
