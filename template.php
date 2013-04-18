@@ -27,20 +27,10 @@
         <li><a href="rules.php" class="button">Rules</a></li>
         <li><a href="schedule.php" class="button">Schedule</a></li>
         <li><a href="about.php" class="button">About us</a></li>
-        <li><a href="register.php" class="button red">Sign up</a></li>
+        <li><a href="results.php" class="button red">Results</a></li>
       </ul>
     </div>
   </header>
-
-  <div class="row">
-    <div class="large-12 columns">
-      <div class="panel">
-        <p>The competition is over. Stay tuned for updates on next year's
-          Rube Goldberg. Until then, check back later for pictures and videos
-          from this year's event.</p>
-      </div>
-    </div>
-  </div>
 
   <!-- First band (large image) -->
   <div class="row">
